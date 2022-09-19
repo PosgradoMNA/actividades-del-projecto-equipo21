@@ -1,0 +1,36 @@
+Actividad1 Equipo 21
+
+El nombre que caracteriza el conjunto de datos.
+Renuncias de los empleados
+
+La organización que lo generó.
+Base tomada de Kaggle, de datos provenientes de IBM
+
+Incluya un enlace de Internet donde se puedan descargar en línea y enviar como una hoja de cálculo junto con su informe correspondiente.
+https://www.kaggle.com/datasets/patelprashant/employee-attrition?resource=download
+
+Describe el conjunto de datos. ¿Qué datos contiene?
+1470 datos de empleados que mencionan los siguientes atributos:
+  Edad
+  Si renunció o no
+  Frecuencia de viajes de trabajo
+  Ingreso
+  Departamento
+  Distancia al trabajo
+  Educacion
+  Satisfacción laboral
+  Desempeño
+  entre otros datos
+  
+¿Cuáles son algunas de las preguntas de investigación que podría responder con estos datos? Enumere al menos OCHO (no responda las preguntas).
+  1- Cuales son los principales factores que desencadenan la renuncia de los empleados
+  2- Como afectan los factores laborales a las renuncias (desempeño, incrementos)
+  3- Como afectan los factores extralaborales a las renuncias (distancia de casa, estado civil)
+  4- Que acciones se pueden tomar para minimizar renucias
+  5- Identificacion de asociados con mayor probabilidad a renunciar
+  6- Que relación hay entre las horas trabajadas con las renuncias
+  7- Que relación hay entre los entrenamientos tomados y las renuncias
+  8- Que relación hay entre la antiguedad y las renuncias
+
+¿Qué actor (empresa, sector de la sociedad, organismo descentralizado, gobierno, etc.) estaría interesado en las preguntas mencionadas que identificó?
+toda empresa que tenga empleados que haya o sea propensa a sufrir renuncias.
